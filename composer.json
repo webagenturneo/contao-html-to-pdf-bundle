@@ -1,6 +1,6 @@
 {
-    "name": "contao/html-to-pdf-bundle",
-    "description": "contao-html-to-pdf-bundle Contao 4 bundles",
+    "name": "webagenturneo/htmltopdfbundle",
+    "description": "contao html to pdf bundle Contao 4 bundles",
     "license": "LGPL-3.0-or-later",
     "type": "contao-bundle",
     "authors": [
