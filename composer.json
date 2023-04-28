@@ -19,7 +19,7 @@
         "source": "https://github.com/webagenturneo"
     },
     "require": {
-        "php": "^7.4 || ^8.1",
+        "php": "^7.4 || >=8.1",
         "contao/core-bundle": "^4.13",
         "symfony/config": "^5.4",
         "symfony/dependency-injection": "^5.4",
